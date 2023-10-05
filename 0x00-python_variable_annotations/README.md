@@ -36,3 +36,22 @@ In Python 3, type annotations do not change this. Python is still a dynamically-
 
 * Code documentation: thanks to them, a developer reading type-annotated code (his own or someone else’s) will know exactly what type each variables is supposed to be. This helps reduce bugs and exceptions and accelerate the development cycle.
 * Linting and validation: code editors and continuous integration (CI) pipelines can be configured to automatically validate type-annotated code at build-time and catch bugs before they make it to production.
+
+
+# Resources
+
+## Read or watch:
+
+* Python 3 typing documentation
+* MyPy cheat sheet
+
+## Learning Objectives
+
+### General
+
+At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
+
+* Type annotations in Python 3
+* How you can use type annotations to specify function signatures and variable types
+* Duck typing
+* How to validate your code with mypy
